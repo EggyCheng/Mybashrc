@@ -1,0 +1,2 @@
+# Mybashrc
+My .bashrc file.
