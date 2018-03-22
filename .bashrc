@@ -104,3 +104,4 @@ set autolist
 set autoexpand
 set complete
 set matchbeep = ambiguous
+export PROMPT_COMMAND='history -a'
